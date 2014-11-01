@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\bin\Debug\Batch_Replace_app.exe.config
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\bin\Debug\Batch_Replace_app.exe
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.Form1.resources
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.Resources.resources
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.xml
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.pdb
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\bin\Debug\Batch_Replace_app.pdb
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\bin\Debug\Batch_Replace_app.xml
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.exe
+D:\Documents\Visual Studio apps\Batch_Replace_app\Batch_Replace_app\obj\Debug\Batch_Replace_app.vbprojResolveAssemblyReference.cache
